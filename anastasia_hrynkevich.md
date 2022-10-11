@@ -51,7 +51,7 @@ Oct 2021 - June 2022
 ___
 * HTML, CSS, SASS and Bootstrap tutorials on the w3schools (completed)
 
-![W3School](https://raw.githubusercontent.com/nastiko/rsschool-cv/gh-pages/W3School.png)
+![W3School](https://github.com/nastiko/cv_markdown/blob/master/W3School.png)
 
 * Legacy Responsive Web Design (freeCodeCamp)
 * Basic JavaScript (freeCodeCamp / https://javascript.info/ and https://code.mu/en/javascript/book/prime/ in progress)
